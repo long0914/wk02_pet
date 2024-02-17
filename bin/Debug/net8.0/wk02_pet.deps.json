@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wk02_pet/1.0.0": {
+        "runtime": {
+          "wk02_pet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wk02_pet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

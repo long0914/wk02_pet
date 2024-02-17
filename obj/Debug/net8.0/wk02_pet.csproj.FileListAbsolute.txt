@@ -1,0 +1,15 @@
+/workspaces/wk02_pet/bin/Debug/net8.0/wk02_pet
+/workspaces/wk02_pet/bin/Debug/net8.0/wk02_pet.deps.json
+/workspaces/wk02_pet/bin/Debug/net8.0/wk02_pet.runtimeconfig.json
+/workspaces/wk02_pet/bin/Debug/net8.0/wk02_pet.dll
+/workspaces/wk02_pet/bin/Debug/net8.0/wk02_pet.pdb
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.AssemblyInfoInputs.cache
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.AssemblyInfo.cs
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.csproj.CoreCompileInputs.cache
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.sourcelink.json
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.dll
+/workspaces/wk02_pet/obj/Debug/net8.0/refint/wk02_pet.dll
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.pdb
+/workspaces/wk02_pet/obj/Debug/net8.0/wk02_pet.genruntimeconfig.cache
+/workspaces/wk02_pet/obj/Debug/net8.0/ref/wk02_pet.dll
